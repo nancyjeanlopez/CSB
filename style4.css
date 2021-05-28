@@ -200,11 +200,16 @@ footer p {
   font-size: 1.2rem;
 }
 
-.info {
+.about {
   text-align: left;
   justify-content: space-around;
   padding: 0 20% 0 20%;
+}
 
+.info {
+  text-align: center;
+  justify-content: space-around;
+  padding: 0 20% 0 20%;
 }
 
 @media screen and (max-width: 800px) {
